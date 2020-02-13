@@ -38,5 +38,5 @@ l1 	nada
 ```
 The image below test the previous program with an input.
 
-
+![Test](test.PNG)
 
