@@ -36,3 +36,7 @@ l1 	nada
 	impr
 	para
 ```
+The image below test the previous program with an input.
+
+
+
