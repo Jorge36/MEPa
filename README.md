@@ -8,6 +8,7 @@ Example:
 
 The following source code calculates factorial function.
 
+``` Java
 	inpp
 	dsvs l1
 l2  enpr 1
@@ -34,3 +35,4 @@ l1 	nada
 	llpr l2
 	impr
 	para
+```
